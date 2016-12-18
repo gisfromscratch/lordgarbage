@@ -1,0 +1,15 @@
+{
+  "name": "tryouts",
+  "version": "1.0.0",
+  "description": "Simple tryouts using node.js",
+  "main": "app.js",
+  "dependencies": {
+    "terraformer-arcgis-parser": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gisfromscratch@live.de",
+  "license": "ISC"
+}
