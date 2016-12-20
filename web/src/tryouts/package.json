@@ -4,7 +4,10 @@
   "description": "Simple tryouts using node.js",
   "main": "app.js",
   "dependencies": {
-    "terraformer-arcgis-parser": "^1.0.5"
+    "arcgis": "^1.0.1",
+    "terraformer": "^1.0.7",
+    "terraformer-arcgis-parser": "^1.0.5",
+    "unirest": "^0.5.1"
   },
   "devDependencies": {},
   "scripts": {
